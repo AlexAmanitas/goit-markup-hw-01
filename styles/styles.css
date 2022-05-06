@@ -1,5 +1,10 @@
 .team, .top_menu {display: inline-block;}
 
+.spec
+ {display: inline-block;
+    width: 270px;
+ }
+
 /* .button {position: absolute;
     width: 200px;
     height: 50px;
