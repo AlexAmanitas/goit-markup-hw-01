@@ -1,5 +1,9 @@
 .team, .top_menu {display: inline-block;}
 
+.link, .top-contacts {display: inline-block;}
+
+.logo {display: inline-block;}
+
 .spec
  {display: inline-block;
     width: 270px;
@@ -27,7 +31,7 @@ letter-spacing: 0.06em;
 color: #FFFFFF;
 
     } */
-/*
+
 .web_logo {
     font-family: 'Raleway';
     font-style: normal;
@@ -36,7 +40,7 @@ color: #FFFFFF;
     line-height: 31px;
     /* identical to box height */
     
-   /* letter-spacing: 0.03em;
+    letter-spacing: 0.03em;
     
     color: #2196F3;
     }
@@ -49,11 +53,11 @@ color: #FFFFFF;
     line-height: 31px;
     /* identical to box height */
     
-   /* letter-spacing: 0.03em;
+    letter-spacing: 0.03em;
     
     color: #000000;}    
 
-  .logo {position: absolute;
+  /*.logo {position: absolute;
     width: 145px;
     height: 31px;
     left: 215px;
